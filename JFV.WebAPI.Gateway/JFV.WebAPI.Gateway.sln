@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFV.Gateway.Web", "JFV.WebAPI.Gateway\JFV.Gateway.Web.csproj", "{57FCC84F-471A-4A21-8619-E07892E62F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFV.WebAPI.Gateway.Web.Tests", "JFV.WebAPI.Gateway.Tests\JFV.WebAPI.Gateway.Web.Tests.csproj", "{8EFCAF55-36D2-467C-9935-4B3D41125FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFV.WebAPI.Gateway", "JFV.WebAPI.Core\JFV.WebAPI.Gateway.csproj", "{6CD6F9AB-FDC0-42CC-B77D-29AB66DAD311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFV.WebAPI.Gateway.Data", "JFV.WebAPI.Gatway.Data\JFV.WebAPI.Gateway.Data.csproj", "{A0DE702C-6062-460F-97C4-497F6079C7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFV.WebAPI.Gateway.Services", "JFV.WebAPI.Gateway.Services\JFV.WebAPI.Gateway.Services.csproj", "{7DB79EBC-9BE8-43AC-8B95-73DE7874F382}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9DEF21F7-FF7C-4031-B5D6-6B392B512B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FCC84F-471A-4A21-8619-E07892E62F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FCC84F-471A-4A21-8619-E07892E62F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FCC84F-471A-4A21-8619-E07892E62F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FCC84F-471A-4A21-8619-E07892E62F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFCAF55-36D2-467C-9935-4B3D41125FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFCAF55-36D2-467C-9935-4B3D41125FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFCAF55-36D2-467C-9935-4B3D41125FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFCAF55-36D2-467C-9935-4B3D41125FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD6F9AB-FDC0-42CC-B77D-29AB66DAD311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD6F9AB-FDC0-42CC-B77D-29AB66DAD311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD6F9AB-FDC0-42CC-B77D-29AB66DAD311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD6F9AB-FDC0-42CC-B77D-29AB66DAD311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DE702C-6062-460F-97C4-497F6079C7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DE702C-6062-460F-97C4-497F6079C7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DE702C-6062-460F-97C4-497F6079C7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DE702C-6062-460F-97C4-497F6079C7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB79EBC-9BE8-43AC-8B95-73DE7874F382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB79EBC-9BE8-43AC-8B95-73DE7874F382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB79EBC-9BE8-43AC-8B95-73DE7874F382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB79EBC-9BE8-43AC-8B95-73DE7874F382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8EFCAF55-36D2-467C-9935-4B3D41125FCA} = {9DEF21F7-FF7C-4031-B5D6-6B392B512B8A}
+	EndGlobalSection
+EndGlobal

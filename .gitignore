@@ -1,0 +1,11 @@
+JFV.WebAPI.Gateway/packages/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gateway.Services/obj/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gateway.Tests/bin/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gateway/bin/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gatway.Data/bin/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gateway/obj/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gateway.Tests/obj/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gateway.Services/bin/
+JFV.WebAPI.Gateway/JFV.WebAPI.Gatway.Data/obj/
+JFV.WebAPI.Gateway/JFV.WebAPI.Core/obj/
+JFV.WebAPI.Gateway/JFV.WebAPI.Core/bin/
